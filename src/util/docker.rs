@@ -69,9 +69,9 @@ impl DockerCommand {
             workdir: "/code".to_string(),
             inherited_env: vec![
                 "HTTP_PROXY",
-                "http_proxy",
+                //"http_proxy",
                 "HTTPS_PROXY",
-                "https_proxy",
+                //"https_proxy",
                 "ALL_PROXY",
             ],
         }
