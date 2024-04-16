@@ -1,5 +1,9 @@
 name: Publish
 
+permissions:
+  # for Upload binaries to release
+  contents: write
+
 on:
   push:
     tags:
