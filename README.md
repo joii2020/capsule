@@ -39,7 +39,7 @@ The following must be installed and available to use Capsule.
 - cross. Capsule uses `cross` to build rust contracts. Install with
 
 ```command
-$ cargo install cross --git https://github.com/cross-rs/cross
+$ cargo install cross --git https://github.com/cross-rs/cross --rev=6982b6c
 ```
 
 Note: All commands must be accessible in the `PATH` in order for them to be used by Capsule.
