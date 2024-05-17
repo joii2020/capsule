@@ -1,6 +1,6 @@
 [package]
 name = "ckb-capsule"
-version = "0.10.4"
+version = "0.10.5"
 authors = ["Nervos Network"]
 edition = "2021"
 license = "MIT"
@@ -49,3 +49,4 @@ members = [
     "crates/tests",
 ]
 exclude = ["tmp", "tests/test-contract"]
+resolver = "2"

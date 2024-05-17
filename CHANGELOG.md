@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com).
 
+## [v0.10.5] - 2024-05-17
+
+CKB Testtool(v0.12.0):
+
+* update dependencies
+
 ## [v0.10.3] - 2024-01-4
 
 Capsule:
